@@ -1,0 +1,14 @@
+Seed: 1234
+Liczba polis w probie: 80000
+Train / valid / test: 48000 16000 16000
+Dodatnie szkody w train / valid / test: 1813 594 648
+Niespojnosc liczby dodatnich szkod i ClaimNb (polisy): 0
+Model czestosci wybrany wg dewiancji: gam
+Model wysokosci wybrany wg dewiancji: glm
+Taryfa z oddzielnie wybranych skladnikow: pp_gam_glm
+Taryfa wybrana wg wRMSE skladki: pp_gam_gam
+Test wRMSE: 6606.8
+Test wMAE: 293.124
+Test O/E kosztu: 1.011
+Liczba wygenerowanych wykresow: 31
+Wyniki testowe NIE byly wykorzystywane przy wyborze taryfy.
